@@ -16,7 +16,7 @@ public class MBTA {
     // we created a constructor
     //
     public MBTA() {
-        // we will initialize an empty hash map
+        // we will initialize an empty hash mapd
         this.lines = new HashMap<>();
 
 
