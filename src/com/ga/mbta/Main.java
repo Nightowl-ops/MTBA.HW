@@ -1,6 +1,7 @@
 package com.ga.mbta;
 
 public class Main {
+
     public static void main(String[] args) {
         MBTA mbta = new MBTA();
 
@@ -16,6 +17,6 @@ public class Main {
         int trip4 = mbta.stopsBetweenStations("Orange", "Haymarket", "Red", "Davis");
         System.out.println("Haymarket to Davis: " + trip4 + " stops");
 
-        System.out.println("this was fun homework loved the idea of putting togeather the map and array list");
+        System.out.println("this was fun homework loved the idea of putting togeather the map and array list :/");
     }
 }
